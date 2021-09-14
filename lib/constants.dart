@@ -6,13 +6,14 @@ var kSecondaryColor = Colors.blue[900];
 
 // text styles
 const TextStyle kBigHeadingStyle = TextStyle(
-  fontSize: 45.0,
+  fontSize: 42.0,
   fontWeight: FontWeight.bold,
 );
 
 const TextStyle kHeadingStyle = TextStyle(
-  fontSize: 32.0,
+  fontSize: 24.0,
   fontWeight: FontWeight.bold,
+  letterSpacing: 1.5,
 );
 
 // loader
