@@ -2,6 +2,10 @@
 
 It's a time saving template with basic project structure, packages and other files like `constants.dart` to get started rather than creating all the folders/files again and again.
 
+
+<img align="right" style="padding-right:700px; padding-top:10px" height=520 src="https://user-images.githubusercontent.com/43790152/133202668-5fbe3826-aec6-46f4-83a3-d8138010f608.png" >
+
+
 Below is the project structure to get started:
 
 ### 📁 Folders
@@ -26,7 +30,6 @@ Below is the project structure to get started:
 - `http: ^0.13.3`
 - `shared_preferences: ^2.0.7`
 - `flutter_svg: ^0.22.0`
-
 
 ### 🔻 Get it Now
 
