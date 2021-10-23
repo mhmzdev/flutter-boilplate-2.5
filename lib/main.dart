@@ -26,7 +26,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('HOME PAGE HERE!!'),
+        child: Text('HOME PAGE IS HERE!!'),
       ),
     );
   }
