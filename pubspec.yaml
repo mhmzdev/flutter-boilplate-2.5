@@ -39,7 +39,12 @@ dependencies:
   provider: ^6.0.0
   http: ^0.13.3
   shared_preferences: ^2.0.7
+  dio: ^4.0.0
   flutter_svg: ^0.22.0
+
+  # attachments
+  image_picker: ^0.8.4+2
+  file_picker: ^3.0.2+2
 
 dev_dependencies:
   flutter_test:
